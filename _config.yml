@@ -1,3 +1,4 @@
+layout_spectrum: 0.2949141946155578
 typography_spectrum: 0.24739853176288307
 color:
   brandStrength: 0.5363012133166194
@@ -5,12 +6,9 @@ color:
   saturation: 0.12148185051046312
   rhythmicContrast: 0.3547446564771235
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.2949141946155578
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: The Life Change Retreats
-title: Recovery Retreats
-description: Recovery and Holiday in one!
